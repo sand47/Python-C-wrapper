@@ -23,5 +23,5 @@ long sqrt_no(long a);
   
 /* or if we want to interface all functions then we can simply 
    include header file like this -  
-   %include "gfg.h" 
+   %include "calculator.h" 
 */
